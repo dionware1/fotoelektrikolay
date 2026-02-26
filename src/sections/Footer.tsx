@@ -32,19 +32,17 @@ export function Footer() {
                   Fotoelektrik Olay
                 </h3>
                 <p className="text-xs text-muted-foreground">
-                  12. Sınıf Fizik - Modern Fizik
+                  Can Baroudi - 12D
                 </p>
               </div>
             </div>
             <p className="text-muted-foreground leading-relaxed mb-6 max-w-md">
-              Bu web sitesi, 12. sınıf fizik dersi fotoelektrik olay konusunu
-              öğrencilere interaktif ve görsel bir şekilde öğretmek amacıyla
-              hazırlanmıştır. Modern fizik ve kuantum mekaniğinin temel taşlarından
-              biri olan bu olay, günlük hayatımızda birçok uygulama alanı bulmaktadır.
+              Bu yaptığım web sitesi ile fotoelektrik olay konusunu 
+              sizlere açıkladım.
             </p>
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <Heart className="w-4 h-4 text-red-400" />
-              <span>Fizik öğrenmeyi seviyoruz</span>
+              <span>Efe hocama saygılar.</span>
             </div>
           </div>
 
@@ -93,7 +91,7 @@ export function Footer() {
         <div className="pt-8 border-t border-white/10">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground text-center sm:text-left">
-              © 2025 Fotoelektrik Olay Eğitim Sitesi. 12. Sınıf Fizik Ders Materyali.
+              © dionware development solutions ltd. - Can Baroudi  (ulaşabilirsiniz her türlü proje için)
             </p>
             <div className="flex items-center gap-4">
               <a
