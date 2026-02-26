@@ -9,7 +9,7 @@ const resources = [
 
 const topics = [
   'Fotoelektrik Olay Nedir?',
-  'Einstein'ın Açıklaması',
+  'Einsteinın Açıklaması',
   'Günlük Hayat Uygulamaları',
   'Fotoelektrik Denklem',
   'Eşik Enerjisi',
