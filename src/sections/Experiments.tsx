@@ -85,7 +85,7 @@ export function Experiments() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
             Fotoelektrik olayın çalışma prensibini bu interaktif simülasyonla keşfedin.
-            Frekans, ışık şiddeti ve eşik enerjisini değiştirerek sonuçları gözlemleyin.
+            Frekans, ışık şiddeti ve eşik enerjisini1 değiştirerek sonuçları gözlemleyin.
           </p>
         </div>
 
